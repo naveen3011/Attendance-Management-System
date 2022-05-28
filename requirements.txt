@@ -1,0 +1,6 @@
+OpenCV-python
+numpy
+pandas
+os
+tkinter
+DateTime
