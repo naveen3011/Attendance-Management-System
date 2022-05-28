@@ -62,7 +62,9 @@ Once all the dependencies are installed, now your system is ready to **run** thi
 Just open [main.py](https://github.com/naveen3011/Attendance-Management-System/blob/main/main.py) on your IDE(VS Code) & **right-click** there and click on **'Run Python File in Terminal'** *as shown below...*
 
 
-<img src="https://github.com/naveen3011/Attendance-Management-System/blob/main/photo/1.png" alt="right-click" width="400"/> &nbsp; &nbsp;  <img src="https://github.com/naveen3011/Attendance-Management-System/blob/main/photo/2.png" alt="Run Python File in Terminal" width="400"/>
+![ide image](https://github.com/naveen3011/Attendance-Management-System/blob/main/photo/1.png)<br>
+![Output](https://github.com/naveen3011/Attendance-Management-System/blob/main/photo/2.png)<br>
+
 
 ## 
 
