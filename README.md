@@ -126,4 +126,4 @@ When a user wants to take attendance and press the ‘take attendance’ button 
 
 
 
-# Checkout this [YouTube link](https://youtu.be/mYZvIkMlNCA) for breif explanation, Thankyou❤
+# Checkout this [YouTube link]() for breif explanation, Thankyou❤
