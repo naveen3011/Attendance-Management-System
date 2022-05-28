@@ -119,11 +119,21 @@ After saving the profile there are 3 different folders generated in the current 
 ## Part 4:Taking attendance
 
 When a user wants to take attendance and press the ‘take attendance’ button webcam will start and one video frame window will generate to recognize the faces using the YML file. If the face will successfully recognize then it will put the name of the person at the bottom of the rectangle which is showing the detected face area.
-![GUI](https://github.com/naveen3011/Attendance-Management-System/blob/main/photo/6.png)
+![GUI](https://github.com/naveen3011/Attendance-Management-System/blob/main/photo/5.png)
 <p align="center">
    Taking Attendance
 </p><br>
+After successfully recognized the attendance will be shown in the table in the 2nd frame and the Attandance.csv file will be generated in a particular folder. This CSV file contains the student’s ID, name along with the time at which attendance was taken for that student.<br>
+<img src="https://github.com/naveen3011/Attendance-Management-System/blob/main/photo/6.png" alt="   Attendance Table" />
 
+<p align="center">
+   Attendance Table
+</p><br>
 
+Attendance will store in one CSV file. This CSV file will be created datewise i.e attendance of one day is stored in one CSV file. If a person will not recognize then in a video capturing it will show unknown. Let’s look at the CSV file of attendance.<br>
+<img src="https://github.com/naveen3011/Attendance-Management-System/blob/main/photo/9.png" alt="Attendance.CSV" />
+<p align="center">
+   Attendance.CSV
+</p><br>
 
 # Checkout this [YouTube link]() for breif explanation, Thankyou❤
