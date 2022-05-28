@@ -112,7 +112,23 @@ There are some methods in OpenCV to take Images. using video frames of OpenCV I�
 When images will be taken for any student user needs to click the ‘save profile’ button so that it will ask for the admin password. If the admin password was not set it will ask you first to set the admin password or else you need to enter the admin password. This password will be saved in one plan txt file.<br>
 If this password is correct then it will call the trainer function which will be going to generate a YML file and it will train our LBPH recognizer using those 100 images. This YML file and password txt file will save in one different folder named “pass_train”.<br>
 After saving the profile there are 3 different folders generated in the current directory. Out of that 3 folders, one is containing images of students, the second one is containing a CSV file of students’ details and the third one is containing a pass.txt file and YMLfile.<br>
+![GUI](https://github.com/naveen3011/Attendance-Management-System/blob/main/photo/7.png)
+<p align="center">
+    After saving profile
+</p>
+<br>
+## Part 4:Taking attendance
 
+When a user wants to take attendance and press the ‘take attendance’ button webcam will start and one video frame window will generate to recognize the faces using the YML file. If the face will successfully recognize then it will put the name of the person at the bottom of the rectangle which is showing the detected face area.
+![GUI](https://github.com/naveen3011/Attendance-Management-System/blob/main/photo/5.png)
+<p align="center">
+   Taking Attendance
+</p><br>
+After successfully recognized the attendance will be shown in the table in the 2nd frame and the Attandance.csv file will be generated in a particular folder. This CSV file contains the student’s ID, name along with the time at which attendance was taken for that student.
+![GUI](https://github.com/naveen3011/Attendance-Management-System/blob/main/photo/5.png)
+<p align="center">
+   Taking Attendance
+</p><br>
 
 
 # Checkout this [YouTube link](https://youtu.be/mYZvIkMlNCA) for breif explanation, Thankyou❤
