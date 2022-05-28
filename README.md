@@ -9,7 +9,6 @@ Face Recognition  *(To develop a browser-based application to demonstrate the ap
 Nowadays everyone wants that technology can help them to make them work easily. So , I made one  project which can help to take attendance so easily without any paperwork.
 
 
-
 ![GitHub Logo](https://github.com/naveen3011/Attendance-Management-System/blob/main/photo/face-REC..png)
 <p align="center">
     Face Recognition
@@ -120,15 +119,11 @@ After saving the profile there are 3 different folders generated in the current 
 ## Part 4:Taking attendance
 
 When a user wants to take attendance and press the ‘take attendance’ button webcam will start and one video frame window will generate to recognize the faces using the YML file. If the face will successfully recognize then it will put the name of the person at the bottom of the rectangle which is showing the detected face area.
-![GUI](https://github.com/naveen3011/Attendance-Management-System/blob/main/photo/5.png)
+![GUI](https://github.com/naveen3011/Attendance-Management-System/blob/main/photo/6.png)
 <p align="center">
    Taking Attendance
 </p><br>
-After successfully recognized the attendance will be shown in the table in the 2nd frame and the Attandance.csv file will be generated in a particular folder. This CSV file contains the student’s ID, name along with the time at which attendance was taken for that student.
-![GUI](https://github.com/naveen3011/Attendance-Management-System/blob/main/photo/5.png)
-<p align="center">
-   Taking Attendance
-</p><br>
+
 
 
 # Checkout this [YouTube link](https://youtu.be/mYZvIkMlNCA) for breif explanation, Thankyou❤
