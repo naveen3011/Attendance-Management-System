@@ -6,7 +6,7 @@
 Face Recognition  *(To develop a browser-based application to demonstrate the application of Face Recognition technology).*
 
 ## Objective
-Nowadays everyone wants that technology can help them to make them work easily. So , I made one  project which can help to take attendance so easily without any paperwork.
+Nowadays everyone wants that technology can help them to make them work easily. So , I made one  project which helps to take attendance so easily without any paperwork.
 
 
 ![GitHub Logo](https://github.com/naveen3011/Attendance-Management-System/blob/main/photo/face-REC..png)
@@ -94,7 +94,7 @@ This GUI window also contains menubar with two sub-menus Help and About. The hel
 
 ## Part 2:Take Images
 
-when users register for new students it will take 100 images of that student and save these images to one folder which will be created at the time of first registration. I use OpenCV to take images and detection.
+when users register for new students it will take 100 images of that student and save these images to one folder which will be created at the time of first registration. I used OpenCV to take images and detection.
 
 OpenCV is a library of programming functions mainly aimed at real-time computer vision. I used a cascade classifier of OpenCV for face detection. To use this cascade classifier we need the haarcascade_frontalface_default.xml file which includes all the haar cascade features of a face.
 
