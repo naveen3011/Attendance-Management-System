@@ -136,4 +136,4 @@ Attendance will store in one CSV file. This CSV file will be created datewise i.
    Attendance.CSV
 </p><br>
 
-# Checkout this [YouTube link]() for breif explanation, Thankyou❤
+# Thankyou❤
