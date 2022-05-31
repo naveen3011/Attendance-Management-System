@@ -116,7 +116,7 @@ After saving the profile there are 3 different folders generated in the current 
     After saving profile
 </p>
 <br>
-## Part 4:Taking attendance
+## Part 4: Taking attendance
 
 When a user wants to take attendance and press the ‘take attendance’ button webcam will start and one video frame window will generate to recognize the faces using the YML file. If the face will successfully recognize then it will put the name of the person at the bottom of the rectangle which is showing the detected face area then <b>press key q</b>.
 ![GUI](https://github.com/naveen3011/Attendance-Management-System/blob/main/photo/5.png)
